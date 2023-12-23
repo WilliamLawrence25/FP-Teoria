@@ -4,7 +4,7 @@ interface Hidroavion {
     void aterrizar();
     
 }
-class Barco{
+class Barco implements Hidroavion{
     public void despegar(){
         System.out.println("Barco desplegado");
     }
@@ -12,11 +12,11 @@ class Barco{
         System.out.println("Barco aterrizado");
     }
 }
-class Avion{
+class Avion implements Hidroavion{
     public void despegar(){
         System.out.println("Avion despegado");
     }
-    public void aterrizado(){
+    public void aterrizar(){
         System.out.println("Avion aterrizado");
     }
 }
@@ -27,7 +27,7 @@ public class Ejercicio3{
 
         //Pruebas
         avion.despegar();
-        avion.aterrizado();
+        avion.aterrizar();
 
         barco.despegar();
         barco.aterrizar();
