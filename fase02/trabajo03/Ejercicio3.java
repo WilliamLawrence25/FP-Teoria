@@ -14,7 +14,7 @@ class Barco implements Hidroavion{
 }
 class Avion implements Hidroavion{
     public void despegar(){
-        System.out.println("Avion despegado");
+        System.out.println("Avion desplegado");
     }
     public void aterrizar(){
         System.out.println("Avion aterrizado");

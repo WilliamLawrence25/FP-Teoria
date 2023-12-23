@@ -21,7 +21,4 @@ class Cilindro extends Circulo{
     public double superficieZero(){
         return 2*this.radio*(this.longitud + this.radio);
     }
-
-  
-
 }
