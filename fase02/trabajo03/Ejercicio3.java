@@ -1,3 +1,5 @@
+package TeoriaFP.fase02.trabajo03;
+
 //Interfaz Hidroavion
 interface Hidroavion {
     void despegar();

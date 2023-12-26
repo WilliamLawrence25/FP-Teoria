@@ -1,4 +1,4 @@
-package TeoriaFP.Pract01;
+package TeoriaFP.fase02.trabajo01;
 
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;

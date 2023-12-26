@@ -1,4 +1,4 @@
-package TeoriaFP.Pract01;
+package TeoriaFP.fase02.trabajo01;
 /* 
 import org.jfree.chart.ChartFactory;
 import org.jfree.chart.ChartUtilities;

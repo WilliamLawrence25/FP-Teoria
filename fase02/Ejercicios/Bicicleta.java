@@ -1,4 +1,4 @@
-package TeoriaFP;
+package TeoriaFP.fase02.Ejercicios;
 
 public class Bicicleta {
   private int diasPrestamo;

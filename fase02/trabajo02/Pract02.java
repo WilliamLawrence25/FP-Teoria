@@ -1,5 +1,5 @@
 //Choquehuanca Berna William Herderson
-package TeoriaFP.Pract02;
+package TeoriaFP.fase02.trabajo02;
 
 import java.util.*;
 class Soldado{
