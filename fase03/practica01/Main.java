@@ -51,7 +51,7 @@ public class Main {
 					System.out.println("La sucursal tiene " + c1.size() + " ejemplares.");
 				}if(s == 2){
 					System.out.println("La sucursal tiene " + c2.size() + " ejemplares.");
-				}if(s == 2){
+				}if(s == 3){
 					System.out.println("La sucursal tiene " + c3.size() + " ejemplares.");
 				}
 				break;
