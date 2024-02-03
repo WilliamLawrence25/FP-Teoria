@@ -1,3 +1,5 @@
+package TeoriaFP.fase03.practica01;
+
 public class Teacher extends User {
 	
 	String speciality;

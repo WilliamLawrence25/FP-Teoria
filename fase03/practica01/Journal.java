@@ -1,3 +1,5 @@
+package TeoriaFP.fase03.practica01;
+
 public class Journal extends Article {
 	
 	public Journal(String title) {

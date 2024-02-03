@@ -1,3 +1,5 @@
+package TeoriaFP.fase03.practica01;
+
 import java.util.ArrayList;
 
 public class Editorial {
